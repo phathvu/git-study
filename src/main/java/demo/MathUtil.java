@@ -8,6 +8,7 @@ public class MathUtil {
     }
 
     public int substract(int a, int b) {
+        System.out.println(a);
         return a - b;
     }
 }
