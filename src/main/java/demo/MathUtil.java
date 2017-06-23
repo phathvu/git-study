@@ -12,7 +12,7 @@ public class MathUtil {
     }
 
     public int multiply(int a, int b) {
-        System.out.println(a);
+        System.out.println(b);
         return a * b;
     }
 }
