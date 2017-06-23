@@ -9,6 +9,7 @@ public class MathUtil {
 
     public int substract(int a, int b) {
         System.out.println(a);
+        System.out.println(b);
         return a - b;
     }
 }
